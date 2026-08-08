@@ -48,7 +48,7 @@ looking_for: Collaborations · Internships · Full-time roles
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Rahul139-creater/Rahul139-creater@main/assets/quick-facts.svg" width="100%"/>
+<img src="quick-facts.svg" width="100%"/>
 
 </td>
 </tr>
