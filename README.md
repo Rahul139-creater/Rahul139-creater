@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hey,%20I'm%20Rahul%20👋&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer%20crafting%20MERN-powered%20web%20experiences&descAlignY=62&descSize=18&descColor=D6D6F5" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Rahul139-creater/Rahul139-creater@main/assets/hero-banner.svg" />
 
 <br/>
 
@@ -48,7 +48,7 @@ looking_for: Collaborations · Internships · Full-time roles
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul139-creater&show_icons=true&theme=tokyonight&hide_border=true&bg_color=15152b&title_color=8B7CF6&icon_color=00CEC9&text_color=D6D6F5&border_radius=12" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Rahul139-creater/Rahul139-creater@main/assets/quick-facts.svg" width="100%"/>
 
 </td>
 </tr>
@@ -162,6 +162,8 @@ Reach out — I usually reply fast.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+---
+
+<sub>Thanks for stopping by — let's build something great. ✨</sub>
 
 </div>
