@@ -1,134 +1,144 @@
 <div align="center">
 
-<!-- Animated gradient banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:B71C1C,100:0F0F1A&height=220&section=header&text=RAHUL%20SHARMA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=E0E0E0" />
-
-<!-- Typing animation -->
-<a href="https://github.com/Rahul139-creater">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=E63946&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Building+clean%2C+scalable+web+apps;MERN+Stack+%7C+Python+%7C+Java+%7C+C%2FC%2B%2B;Turning+ideas+into+production-ready+code" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hey,%20I'm%20Rahul%20👋&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer%20crafting%20MERN-powered%20web%20experiences&descAlignY=62&descSize=18&descColor=D6D6F5" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0F0F1A?style=for-the-badge&logo=codeforces&logoColor=E63946" />
-<img src="https://komarev.com/ghpvc/?username=Rahul139-creater&style=for-the-badge&color=B71C1C&label=PROFILE+VIEWS" />
+<a href="https://github.com/Rahul139-creater">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B7CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Python+%7C+Java+%7C+C%2FC%2B%2B;I+turn+coffee+into+code+%E2%98%95" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/rahul-sharma-27aa5a331/"><img src="https://img.shields.io/badge/Connect-LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=15152b" /></a>
+<a href="https://github.com/Rahul139-creater"><img src="https://img.shields.io/badge/Follow-GitHub-15152b?style=for-the-badge&logo=github&logoColor=white&labelColor=6C5CE7" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Say%20Hi-Email-00CEC9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=15152b" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rahul139-creater&style=for-the-badge&color=6C5CE7&labelColor=15152b&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-<!-- Animated GSAP-style button bar (SVG-based, since GitHub sanitizes <script>) -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Rahul139-creater/Rahul139-creater@main/buttons.svg" alt="Quick Links" width="720" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/assets/tag.svg" width="1"/>
-</p>
-
----
-
-<h2 align="center">🧑‍💻 About Me</h2>
+## 🧭 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-```javascript
-const rahul = {
-    role: "Full Stack Developer",
-    stack: ["MERN", "Python", "Java", "C/C++"],
-    currentFocus: "Building performant, scalable web applications",
-    funFact: "I debug in my dreams 💤",
-    location: "India 🇮🇳",
-    openTo: ["Collaboration", "Freelance", "Full-time roles"]
-};
+I'm a **Full Stack Developer** who enjoys turning ideas into fast, clean, and scalable web applications. I work end-to-end — from designing responsive interfaces to building solid backend APIs and structuring databases.
+
+```yaml
+name: Rahul Sharma
+role: Full Stack Developer
+stack: [React, Node.js, Express, MongoDB, MySQL]
+languages: [JavaScript, Python, Java, C, C++]
+currently_exploring: DSA & System Design
+looking_for: Collaborations · Internships · Full-time roles
 ```
 
-- 🚀 I build end-to-end web applications with the **MERN stack**
-- 🎨 I care about clean UI, smooth UX and pixel-perfect animations (**GSAP**)
-- 🛠️ Comfortable across **frontend, backend, and databases**
-- 📚 Always exploring new tools, frameworks, and best practices
-- 🌱 Currently sharpening skills in **DSA & System Design**
+- 🔭 Building projects with the **MERN stack**
+- ⚙️ Comfortable across frontend, backend & databases
+- 🎯 Focused on writing clean, maintainable code
+- 🌱 Sharpening **DSA** and **system design** fundamentals
+- 💬 Ask me about React, Node.js, or Python
 
 </td>
-<td width="40%" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul139-creater&show_icons=true&theme=radical&hide_border=true&bg_color=0F0F1A&title_color=E63946&icon_color=B71C1C&text_color=E0E0E0" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul139-creater&show_icons=true&theme=tokyonight&hide_border=true&bg_color=15152b&title_color=8B7CF6&icon_color=00CEC9&text_color=D6D6F5&border_radius=12" width="100%"/>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,python,java,c,cpp,html,css,js,jquery,git,github,postman,tailwind&theme=dark" />
-</p>
+## 🧰 Tech Stack
 
 <div align="center">
 
-| Frontend | Backend | Database | Languages | Tools |
-|:---:|:---:|:---:|:---:|:---:|
-| React · Tailwind · GSAP · HTML/CSS/JS · jQuery | Node.js · Express | MongoDB · MySQL | Python · Java · C/C++ | Git · GitHub · Postman |
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,jquery&theme=dark" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
 
 </div>
 
----
+<br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul139-creater&layout=compact&theme=radical&hide_border=true&bg_color=0F0F1A&title_color=E63946&text_color=E0E0E0" width="46%"/>
-  <img src="https://streak-stats.demolab.com/?user=Rahul139-creater&theme=radical&hide_border=true&background=0F0F1A&ring=E63946&fire=B71C1C&currStreakLabel=E63946" width="46%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul139-creater&theme=redical&hide_border=true&bg_color=0F0F1A&color=E63946&line=B71C1C&point=FFFFFF" width="94%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul139-creater&layout=compact&theme=tokyonight&hide_border=true&bg_color=15152b&title_color=8B7CF6&text_color=D6D6F5&border_radius=12" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Rahul139-creater&theme=tokyonight&hide_border=true&background=15152b&ring=8B7CF6&fire=00CEC9&currStreakLabel=8B7CF6&border_radius=12" width="48%"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul139-creater&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="94%"/>
-</p>
+<br/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul139-creater&theme=tokyo-night&hide_border=true&bg_color=15152b&color=8B7CF6&line=00CEC9&point=FFFFFF" width="98%"/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul139-creater&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="98%"/>
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌦️ [Weather Application](https://github.com/Rahul139-creater/WeatherApplication)
-Real-time weather forecasting app that fetches live data from a weather API and renders it in a clean, responsive UI.
+<h3>🌦️ Weather Application</h3>
 
-`JavaScript` `HTML` `CSS` `API Integration`
+Real-time weather forecasting app that pulls live data from a weather API and renders it in a clean, responsive interface.
 
-<p>
-  <img src="https://img.shields.io/github/languages/top/Rahul139-creater/WeatherApplication?style=flat-square&color=E63946&labelColor=0F0F1A" />
-  <img src="https://img.shields.io/github/stars/Rahul139-creater/WeatherApplication?style=flat-square&color=B71C1C&labelColor=0F0F1A" />
-  <img src="https://img.shields.io/github/last-commit/Rahul139-creater/WeatherApplication?style=flat-square&color=E63946&labelColor=0F0F1A" />
-</p>
+<img src="https://img.shields.io/badge/JavaScript-15152b?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/API-15152b?style=flat-square&logo=fastapi&logoColor=00CEC9" />
 
-<a href="https://github.com/Rahul139-creater/WeatherApplication">🔗 View Repository</a>
+<br/><br/>
+
+<img src="https://img.shields.io/github/languages/top/Rahul139-creater/WeatherApplication?style=flat-square&color=8B7CF6&labelColor=15152b" />
+<img src="https://img.shields.io/github/last-commit/Rahul139-creater/WeatherApplication?style=flat-square&color=00CEC9&labelColor=15152b" />
+
+<br/><br/>
+
+**[→ View Repository](https://github.com/Rahul139-creater/WeatherApplication)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 [Geeta University Website](https://github.com/Rahul139-creater/Geetauniversity)
-A university website project focused on structured content presentation and clean front-end implementation.
+<h3>🎓 Geeta University Website</h3>
 
-`JavaScript` `HTML` `CSS`
+A university website project built with a focus on structured content presentation and clean, responsive front-end implementation.
 
-<p>
-  <img src="https://img.shields.io/github/languages/top/Rahul139-creater/Geetauniversity?style=flat-square&color=E63946&labelColor=0F0F1A" />
-  <img src="https://img.shields.io/github/stars/Rahul139-creater/Geetauniversity?style=flat-square&color=B71C1C&labelColor=0F0F1A" />
-  <img src="https://img.shields.io/github/last-commit/Rahul139-creater/Geetauniversity?style=flat-square&color=E63946&labelColor=0F0F1A" />
-</p>
+<img src="https://img.shields.io/badge/JavaScript-15152b?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML/CSS-15152b?style=flat-square&logo=html5&logoColor=E34F26" />
 
-<a href="https://github.com/Rahul139-creater/Geetauniversity">🔗 View Repository</a>
+<br/><br/>
+
+<img src="https://img.shields.io/github/languages/top/Rahul139-creater/Geetauniversity?style=flat-square&color=8B7CF6&labelColor=15152b" />
+<img src="https://img.shields.io/github/last-commit/Rahul139-creater/Geetauniversity?style=flat-square&color=00CEC9&labelColor=15152b" />
+
+<br/><br/>
+
+**[→ View Repository](https://github.com/Rahul139-creater/Geetauniversity)**
 
 </td>
 </tr>
@@ -136,19 +146,22 @@ A university website project focused on structured content presentation and clea
 
 <p align="center"><i>More projects on my <a href="https://github.com/Rahul139-creater?tab=repositories">GitHub repositories →</a></i></p>
 
----
+<br/>
 
-<h2 align="center">🤝 Let's Connect</h2>
+## 🤝 Let's Build Something Together
 
-<p align="center">
-I'm always open to collaborating on interesting projects or discussing tech.<br/>
-Feel free to reach out — let's build something great together!
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Rahul139-creater/Rahul139-creater@main/buttons.svg" alt="Connect with me" width="720" />
-</p>
+I'm always open to interesting projects, collaborations, or a good tech conversation.
+<br/>
+Reach out — I usually reply fast.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:B71C1C,100:0F0F1A&height=120&section=footer" />
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/rahul-sharma-27aa5a331/"><img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=15152b" /></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
