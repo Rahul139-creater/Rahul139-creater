@@ -19,7 +19,7 @@
 
 <!-- Animated GSAP-style button bar (SVG-based, since GitHub sanitizes <script>) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rahul139-creater/Rahul139-creater/main/buttons.svg" alt="Quick Links" width="720" />
+  <img src="https://cdn.jsdelivr.net/gh/Rahul139-creater/Rahul139-creater@main/buttons.svg" alt="Quick Links" width="720" />
 </p>
 
 <p align="center">
@@ -106,9 +106,13 @@ Real-time weather forecasting app that fetches live data from a weather API and 
 
 `JavaScript` `HTML` `CSS` `API Integration`
 
-<a href="https://github.com/Rahul139-creater/WeatherApplication">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul139-creater&repo=WeatherApplication&theme=radical&hide_border=true&bg_color=0F0F1A&title_color=E63946&text_color=E0E0E0" width="100%"/>
-</a>
+<p>
+  <img src="https://img.shields.io/github/languages/top/Rahul139-creater/WeatherApplication?style=flat-square&color=E63946&labelColor=0F0F1A" />
+  <img src="https://img.shields.io/github/stars/Rahul139-creater/WeatherApplication?style=flat-square&color=B71C1C&labelColor=0F0F1A" />
+  <img src="https://img.shields.io/github/last-commit/Rahul139-creater/WeatherApplication?style=flat-square&color=E63946&labelColor=0F0F1A" />
+</p>
+
+<a href="https://github.com/Rahul139-creater/WeatherApplication">🔗 View Repository</a>
 
 </td>
 <td width="50%">
@@ -118,9 +122,13 @@ A university website project focused on structured content presentation and clea
 
 `JavaScript` `HTML` `CSS`
 
-<a href="https://github.com/Rahul139-creater/Geetauniversity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul139-creater&repo=Geetauniversity&theme=radical&hide_border=true&bg_color=0F0F1A&title_color=E63946&text_color=E0E0E0" width="100%"/>
-</a>
+<p>
+  <img src="https://img.shields.io/github/languages/top/Rahul139-creater/Geetauniversity?style=flat-square&color=E63946&labelColor=0F0F1A" />
+  <img src="https://img.shields.io/github/stars/Rahul139-creater/Geetauniversity?style=flat-square&color=B71C1C&labelColor=0F0F1A" />
+  <img src="https://img.shields.io/github/last-commit/Rahul139-creater/Geetauniversity?style=flat-square&color=E63946&labelColor=0F0F1A" />
+</p>
+
+<a href="https://github.com/Rahul139-creater/Geetauniversity">🔗 View Repository</a>
 
 </td>
 </tr>
@@ -138,7 +146,7 @@ Feel free to reach out — let's build something great together!
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rahul139-creater/Rahul139-creater/main/buttons.svg" alt="Connect with me" width="720" />
+  <img src="https://cdn.jsdelivr.net/gh/Rahul139-creater/Rahul139-creater@main/buttons.svg" alt="Connect with me" width="720" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:B71C1C,100:0F0F1A&height=120&section=footer" />
