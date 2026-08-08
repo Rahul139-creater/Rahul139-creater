@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://cdn.jsdelivr.net/gh/Rahul139-creater/Rahul139-creater@main/assets/hero-banner.svg" />
+<img width="100%" src="hero-banner.svg" />
 
 <br/>
 
