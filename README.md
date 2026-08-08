@@ -11,7 +11,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0F0F1A?style=for-the-badge&logo=codeforces&logoColor=E63946" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Profile%20Views&query=$.count&url=https://api.countapi.xyz/hit/rahul139-creater/readme&color=B71C1C&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Rahul139-creater&style=for-the-badge&color=B71C1C&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <!-- Animated GSAP-style button bar (SVG-based, since GitHub sanitizes <script>) -->
 <p align="center">
-  <img src="./assets/buttons.svg" alt="Quick Links" width="720" />
+  <img src="https://raw.githubusercontent.com/Rahul139-creater/Rahul139-creater/main/buttons.svg" alt="Quick Links" width="720" />
 </p>
 
 <p align="center">
@@ -138,7 +138,7 @@ Feel free to reach out — let's build something great together!
 </p>
 
 <p align="center">
-  <img src="./assets/buttons.svg" alt="Connect with me" width="720" />
+  <img src="https://raw.githubusercontent.com/Rahul139-creater/Rahul139-creater/main/buttons.svg" alt="Connect with me" width="720" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:B71C1C,100:0F0F1A&height=120&section=footer" />
